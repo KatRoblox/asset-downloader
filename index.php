@@ -4,7 +4,6 @@
 		<title>Roblox Asset Downloader</title>
 		<link href="http://fonts.googleapis.com/css?family=Muli:400,400italic" rel="stylesheet" type="text/css" />
 		<link rel="shortcut icon" type="image/png" href="http://eric-wieser.tk/images/favicon.png" />
-		<!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 		<style>
 			body {
 				line-height: 20px;
@@ -41,7 +40,6 @@
 			}
 			
 			header {
-				background: #606060 url(http://eric-wieser.tk/images/logo.png) no-repeat 5px 50%;
 				color: white;
 				overflow: hidden;
 				padding: 5px;
@@ -84,18 +82,18 @@
 	</head>
 	<body>
 		<header>
-			<h1>Roblox Asset downloader</h1>
+			<h1>Roblox Asset Downloader</h1>
 			<p>Download Roblox assets straight from your browser</p>
 		</header>
 		<section class="content centered">
 			<div class="center">
 				<p>Drag these to your bookmarks or favourites bar:</p>
-				<a draggable="true" class="button" href="javascript:(function(){location.href='http://roblox-asset.comoj.com/'+location.href.match(/-(?:item|place)\?id=(\d+)/i)[1]})()" onclick="return false">Download Roblox Asset</a>
+				<a draggable="true" class="button" href="javascript:(function(){location.href='http://roblox-katroblox.rhcloud.com/'+location.href.match(/-(?:item|place)\?id=(\d+)/i)[1]})()" onclick="return false">Download Roblox Asset</a>
 				<p>Then click it when viewing an asset detail page</p>
 			</div>
 		</section>
 		<footer>
-			<a href="http://eric-wieser.tk">More projects...</a>
+			<h3>Email any questions, comments, or concerns to:  ZyuCorp@collector.org</h3>
 		</footer>
 	</body>
 </html>
