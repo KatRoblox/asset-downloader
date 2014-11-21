@@ -40,7 +40,7 @@
 			}
 			
 			header {
-			background: #606060;
+			background: #606060 5px;
 				color: white;
 				overflow: hidden;
 				padding: 5px;
